@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="webcam-capture-addons/webcam-capture-addon-spycam/src/main/java"/>
+	<classpathentry kind="src" path="webcam-capture-addons/webcam-capture-addon-swt/src/main/java"/>
+	<classpathentry kind="src" path="webcam-capture-drivers/driver-ffmpeg-cli/src/example/java"/>
+	<classpathentry kind="src" path="webcam-capture-drivers/driver-ffmpeg-cli/src/main/java"/>
+	<classpathentry kind="src" path="webcam-capture-drivers/driver-fswebcam/src/example/java"/>
+	<classpathentry kind="src" path="webcam-capture-drivers/driver-fswebcam/src/main/java"/>
+	<classpathentry kind="src" path="webcam-capture-drivers/driver-gst1/src/examples/java"/>
+	<classpathentry kind="src" path="webcam-capture-drivers/driver-gst1/src/main/java"/>
+	<classpathentry kind="src" path="webcam-capture-drivers/driver-gstreamer/src/example/java"/>
+	<classpathentry kind="src" path="webcam-capture-drivers/driver-gstreamer/src/main/java"/>
+	<classpathentry kind="src" path="webcam-capture-drivers/driver-ipcam/src/examples/java"/>
+	<classpathentry kind="src" path="webcam-capture-drivers/driver-ipcam/src/main/java"/>
+	<classpathentry kind="src" path="webcam-capture/src/example/java"/>
+	<classpathentry kind="src" path="webcam-capture/src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/vito/Desktop/LIBRERIE/apache-httpcomponents-httpcore.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vito/Desktop/LIBRERIE/dbus-java-2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vito/Desktop/LIBRERIE/gstreamer-java-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vito/Desktop/LIBRERIE/gstreamer-java-bin-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vito/Desktop/LIBRERIE/httpclient-4.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vito/Desktop/LIBRERIE/httpclient-4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vito/Desktop/LIBRERIE/httpclient-4.3-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vito/Desktop/LIBRERIE/httpmime-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vito/Desktop/LIBRERIE/jna-3.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vito/Desktop/LIBRERIE/jna-3.3.0-platform.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vito/Desktop/LIBRERIE/org.eclipse.swt-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vito/Desktop/LIBRERIE/org.slf4j.log4j12-1.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vito/Desktop/LIBRERIE/slf4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vito/Desktop/LIBRERIE/webcam-capture-driver-ipcam-0.3.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
